@@ -22,9 +22,9 @@ if (premio.toLowerCase() === 'nao') {
     console.log('1. Whey 1kg: 300 Pontos')
     console.log('2. Creatina 500g: 300 Pontos')
     console.log('3. Whey 900g: 260 Pontos')
-    console.log('4. Creatina 300g: 240 Pontos')
-    console.log('5. Roupas: 210 Pontos')
-    console.log('6. Creatina 150g: 200 Pontos')
+    console.log('4. Creatina 300g: 235 Pontos')
+    console.log('5. Roupas: 211 Pontos')
+    console.log('6. Creatina 150g: 198 Pontos')
     console.log('7. Munhequeira: 150 Pontos')
     console.log('8. Strap - 100 Pontos')
 }
